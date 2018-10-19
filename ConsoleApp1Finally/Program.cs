@@ -10,6 +10,9 @@ namespace ConsoleApp1Finally
     {
         static void Main(string[] args)
         {
+            //bbla
+            Console.WriteLine("aeraerg");
+            Console.ReadLine();
         }
     }
 }
